@@ -1,0 +1,112 @@
+01:29:18	raju chityala:	plz share ppts ,recorded video and ppts 
+01:30:38	MUDASSIR KHAN:	Pls share the ppts after each session
+01:32:19	ANDHE SRINIVAS:	ANDHE SRINIVAS SKNR GDC JAGTIAL
+01:33:34	S Janardhanarao:	no audio
+01:33:35	Shilpali Bansu:	in english
+01:33:39	Harman Singh:	no audible
+01:33:55	Harman Singh:	not audible
+01:34:07	NAVEEN V:	s sir
+01:34:29	DIMPLE PAUL:	yes sir. audio and video are fine
+01:34:51	MUDASSIR KHAN:	yes
+01:34:53	NAVEEN V:	s audible sir
+01:34:53	JAYARAM BOGA:	yes audible
+01:34:57	MUDASSIR KHAN:	audibale
+01:35:01	Surendra Gangarapu:	Audible sir
+01:35:08	Dr,  AJAY KUMAR LALA:	audible
+01:35:48	NAVEEN V:	presenter audio volume has to be increased
+01:41:58	V. Elanangai :	sir, not audible
+01:52:21	Boppudi Swanth:	boppudi swanth
+01:56:58	Sivakumar P:	Dear Participants, Audio and video is fine.
+01:57:35	Suganya Yogaraj:	which tool will be do for medical image processing? 
+01:58:51	MUDASSIR KHAN:	yes
+01:58:53	G. NIRMALA:	yes sir
+01:59:18	murali krishna:	yes
+01:59:18	Madhu Kumar B P N:	yes
+01:59:18	G. NIRMALA:	yes sir
+01:59:20	Suganya Yogaraj:	S sir 
+01:59:20	murali krishna:	sit
+01:59:21	Yobu D:	yes sir
+01:59:23	Sandeep D.SV:	yes
+01:59:25	Jutur suneetha:	yes sir
+01:59:37	Sadaieswaran Raju:	yes sir
+01:59:38	G. NIRMALA:	yes sir
+01:59:47	G. NIRMALA:	i worked on that
+01:59:52	Vijayalakshmi B:	yes sir
+02:00:33	MUDASSIR KHAN:	yes
+02:00:36	NAVEEN V:	s
+02:00:40	N V S K VIJAYALAKSHMI K:	yes
+02:00:45	Sadaieswaran Raju:	yes sir audiable
+02:00:58	Harman Singh:	sir share ppt also 
+02:03:20	N Kesava Rao:	yes sir it is clearly audible
+02:06:06	BALAKRISHNA meher:	Hi  
+02:07:11	Vikrant Madnure:	PLS SEND FEEDBACK LINK
+02:09:31	ANDHE SRINIVAS:	PLS SEND FEEDBACK LINK
+02:10:54	Harman Singh:	sir try to make things simple
+02:11:07	J S V G KRISHNA:	PLS SEND FEEDBACK LINK sir
+02:12:06	Harman Singh:	😴😴
+02:12:18	Shankar Pasa:	feedback link pls
+02:12:52	G Srilakshmi:	YEs Sir this will help us a lot . All resources
+02:13:05	Suganya Yogaraj:	super sir
+02:13:42	Shankar Pasa:	voice is very low sir
+02:14:15	Madhusudhana Subramanyam:	feed back
+02:14:15	Madhusudhana Subramanyam:	please
+02:14:15	Mallika C:	no audio sir
+02:15:02	Muthaiyan Ramadoss:	All these code examples are available in the colab itself?
+02:15:26	Srinivas Adapa:	yes available in google colab.
+02:15:50	Muthaiyan Ramadoss:	Thank you sir.
+02:15:52	Madhusudhana Subramanyam:	From Madhusudhana Subramanyam to Everyone:  03:26 PMfeed backplease  I DIDNOT SEND THIS, WHO SEND THIS REQUEST ????
+02:19:17	vasumathy mohan:	can I include my dataset in coding of google colab
+02:20:02	Suganya Yogaraj:	for medical image processing.... which tool will be do better? 
+02:20:08	Harman Singh:	what format of data it will accept?
+02:20:08	Yallamanda Challa:	data set their be structure or un structure
+02:21:14	G Srilakshmi:	This is text section
+02:22:53	Vikrant Madnure:	feedback link pls
+02:24:25	Srinivas Adapa:	it will accept different data like text, images, csv, excel, ...etc.
+02:24:31	Manjula Devi R:	which tool is better for medical imaging
+02:27:50	Yallamanda Challa:	feedback
+02:28:26	Devchand Chaudhari:	voice is not clear sir
+02:28:44	SUDHEER PUNURI:	Sir, Can we use colab for Deep Learning Algorithmes for Face Emotion Recogniton.
+02:28:56	Manjula Devi R:	ok sir thank you
+02:29:03	swetha koduri:	Please mention best tools for NLP
+02:29:04	Swarna  Sudha M:	very informative sir
+02:29:14	Anish T. P:	sir tell some research problem for disease prediction using machine learning or deep learning 
+02:29:18	NAVEEN V:	how exactly this colab is used for machine learning......it accepts many types of coding in it and runs....but how it is used to generate    programs from data and outputs
+02:29:19	Pinjala N Malleswari:	sir which tool is comfortable for ecg signal classification using deeplearning
+02:29:37	NAVEEN V:	how exactly this colab is used for machine learning......it accepts many types of coding in it and runs....but how it is used to generate    programs from data and outputs
+02:30:26	Harman Singh:	what tool can be used in speech synthesis
+02:30:35	SARANYA K:	can we use remote sensing images in this colab platform.
+02:30:39	Anish T. P:	sir tell some research problem for disease prediction using machine learning or deep learning 
+02:30:49	Ridhima Rani:	are GPUs on colab have capability to deal with any size of datasets. or there is a limit? 
+02:31:03	Azhagiri M:	feedback Link pls
+02:31:34	vasumathy mohan:	how we can calculate the accuracy of codings of colab. if I want to improve accuracy what I should do sir
+02:32:05	raju chityala:	integreted development environment?
+02:32:06	ALOK TIWARI:	kernel died... refresh requires remount ur drive and/or reload ur data... in case of images... it takes GBs of data... how it is useful to usw colab in such cases?? 
+02:32:27	Seetharaman K S:	difference between colab and jupyter notebook
+02:32:30	ALOK TIWARI:	and what if network strength is not so good
+02:33:21	Srinivasa KG:	https://colab.research.google.com/github/ckbjimmy/2018_mlw/blob/master/nb3_nn.ipynb
+02:33:31	Anish T. P:	ok sir 
+02:33:44	Dr.MATAM BHEEMA LINGAIAH:	Dear Sir, How to apply real time data
+02:33:49	vasumathy mohan:	how we can calculate the accuracy of codings of colab. if I want to improve accuracy what I should do sir
+02:34:03	Nirmala Ganapathy:	yes exactly
+02:34:09	Swarna  Sudha M:	 can we use colab for  social media anaysis 
+02:34:23	Nirmala Ganapathy:	give some tools to work
+02:35:10	MURUKESH CHINNASAMY:	can you explain about linear regression model in machine learning using colab
+02:36:16	ALOK TIWARI:	kernel died... refresh requires remount ur drive and/or reload ur data... in case of images... it takes GBs of data... how it is useful to usw colab in such cases?? 
+02:36:25	UDIT AGARWAL:	feedback 
+02:36:40	Shubham Naga:	for biological data mining, which approach is better whether ARM or Random forest
+02:37:03	Mallika C:	actually fit a model for predicting house prices, we would need to get our hands
+02:37:59	Swarna  Sudha M:	 can we use colab for  social media anaysis like twitter dataset
+02:38:26	vasumathy mohan:	is it possible to improve the accuracy of output when colab codings are used for my dataset
+02:38:28	Harman Singh:	which is better spyder, jupyter notebook or colab
+02:38:35	ALOK TIWARI:	u misunderstood my point sir... i was asking about giving path to use the data... you've to first load it into drive and then use or load in current window... so... it'll take lots of data to train... 
+02:39:15	SRIMATHI KANNAN:	For real time computer vision projects , if we want to create a dataset of our own, how can we form a dataset and store as a trained dataset, so that we can use it further ….is there any examples available....This project is mainly on inspection basis...
+02:39:28	ParvathSuman K:	As like python wheather it is possible to get the Overall statistics and class statistics (Performance Metric) in R programming for CNN 
+02:39:56	Ridhima Rani:	sir, is authenticity get maintained on colab by creating account? suppose some one wants to run research related codes on it.
+02:40:35	SAI KRISHNA KODALI:	for medical image processing, which algorithm is better
+02:40:41	Srinivasa KG:	https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb
+02:41:04	Shankar Pasa:	feedback pla
+02:42:00	jensila smile:	For hybrid computing is it possible ?
+02:42:30	Seetharaman K S:	can colab be used for live streaming data and its analysis... some examples please
+02:42:57	vasumathy mohan:	is it possible to improve the accuracy of output when colab codings are used for my dataset
+02:42:57	Madhusudhana Subramanyam:	feedback link
+02:43:35	Madhusudhana Subramanyam:	for validation testing we need all features using which we have trained 
